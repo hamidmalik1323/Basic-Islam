@@ -1,0 +1,42 @@
+body {
+  color: white;
+}
+
+.intro, .Heading {
+  color: black;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.Heading {
+  font-weight: bolder;
+  border: 3mm;
+  font-size: 10mm;
+}
+
+.intro {
+  padding-top: 5mm;
+  padding-bottom: 5mm;
+  padding-left: 2mm;
+  padding-right: 2mm;
+  font-style: normal;
+  font-family: sans-serif;
+  font-weight: inherit;
+  font-size: 8mm;
+  color: #14110c;
+}
+
+.body {
+  padding-top: 5mm;
+  padding-bottom: 5mm;
+  padding-left: 2mm;
+  padding-right: 2mm;
+  font-style: normal;
+  font-family: sans-serif;
+  font-weight: inherit;
+  font-size: 8mm;
+  color: #14110c;
+  text-align: initial;
+}
+
+/*# sourceMappingURL=Style.css.map */
